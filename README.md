@@ -1,1 +1,1 @@
-Simon Says game
+The Simon Says project is a web-based game that replicates the classic "Simon Says" memory game. The game challenges players to repeat a sequence of colors in the correct order as shown by the game. It is built using HTML, CSS, and JavaScript. The project focuses on creating an interactive and engaging user experience by implementing game logic, UI styling, and responsive design.
